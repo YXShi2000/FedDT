@@ -1,6 +1,6 @@
 # FedDT: A Flexible Federated Learning Framework in Heterogeneous Environment
 
-This repository is the official implementation of tha paper: FedDT: A Flexible Federated Learning Framework in Heterogeneous Environment.
+This repository is the official implementation of the paper “FedDT: A Flexible Federated Learning Framework in Heterogeneous Environment”.
 
 
 
